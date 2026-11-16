@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "RequestTasks": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "Echo/Get",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
